@@ -20,7 +20,7 @@ body{
     margin-top: 3px;
     text-align: left;
     color: white;
-    font-size: 300;
+    
 }
 img{
     border-radius: 10px;
@@ -35,15 +35,14 @@ img{
 float: right;
 }
 .paragraph1{
-    font-weight: 600px;
+    font: size 27px;
 }
 .paragraph2{
-    font-weight: 400;
+    font-size: 11px;
 }
 .attribution{
     margin-top: 30px;
 }
-hr{
-size: 1px;
+
     
-}
+
